@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyperPigeon)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyperPigeon)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyperPigeon&theme=radical&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyperPigeon&theme=radical&show_icons=true)
 
