@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyperPigeon&theme=radical&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyperPigeon&theme=radical&show_icons=true)
 
-## Here are a few of the projects I've done!
+## Here are a few of the projects I've worked on!
 
 ### Java
 - [Eldritch Mobs](https://github.com/HyperPigeon/Eldritch-Mobs)
