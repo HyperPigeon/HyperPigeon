@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 ### JavaScript
 - [YouTube Video Downloader](https://github.com/HyperPigeon/YoutubeVideoDownloader)
 
-### C#
+### .NET
 - [Conway's Game Of Life](https://github.com/HyperPigeon/GameOfLife)
