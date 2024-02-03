@@ -17,3 +17,20 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyperPigeon&theme=radical&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyperPigeon&theme=radical&show_icons=true)
 
+## Here are a few of the projects I've done!
+
+### Java
+- [Eldritch Mobs] (https://github.com/HyperPigeon/Eldritch-Mobs)
+- [MoreTotems] (https://github.com/HyperPigeon/MoreTotems)
+- [Polaroid Camera] (https://github.com/HyperPigeon/PolaroidCamera) 
+
+### Python
+- [Australian Rainfall Analysis] (https://github.com/HyperPigeon/AustralianRainfallAnalysis)
+- [Youtube Summarizer] (https://github.com/HyperPigeon/YouTubeVideoSummarizer)
+- [Thumbnail Downloader] (https://github.com/HyperPigeon/ThumbnailDownloader)
+
+### JavaScript
+- [Youtube Video Downloader] (https://github.com/HyperPigeon/YoutubeVideoDownloader)
+
+### C#
+- [Conway's Game Of Life] (https://github.com/HyperPigeon/GameOfLife)
