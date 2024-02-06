@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 
 ### .NET
 - [Conway's Game Of Life](https://github.com/HyperPigeon/GameOfLife)
+
+### Godot
+- [Brick Breakers](https://github.com/HyperPigeon/Brick-Breakers)
