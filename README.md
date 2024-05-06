@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### JavaScript
 - [YouTube Video Downloader](https://github.com/HyperPigeon/YoutubeVideoDownloader)
+- [Kaiju Quotes](https://github.com/HyperPigeon/KaijuQuotes)
 
 ### .NET
 - [Conway's Game Of Life](https://github.com/HyperPigeon/GameOfLife)
